@@ -1,0 +1,1 @@
+function img() {document.getElementById('hirakawa').src ="./image/sekine.urawa.jpg";}
