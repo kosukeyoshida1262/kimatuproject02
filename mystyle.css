@@ -1,0 +1,7 @@
+h1{ color:red; }
+
+th,td{ border: dashed thick black; }
+
+th.important { color: red; }
+
+p.sample1 {margin: 30px 30px;padding: 10px;border: medium solid #ff0000;}
