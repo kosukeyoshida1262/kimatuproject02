@@ -1,1 +1,0 @@
-function img() {document.getElementById('ugazinn').src ="./image/atuki.3.jpg";}

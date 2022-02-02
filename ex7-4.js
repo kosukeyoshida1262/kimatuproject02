@@ -1,1 +1,0 @@
-function img() {document.getElementById('abe').src ="./image/shibato.urawa.jpg";}
